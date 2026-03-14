@@ -2,6 +2,7 @@
 
 ![Contest](https://img.shields.io/badge/Contest-MIT%20Informatics%20Tournament-blue)
 ![Language](https://img.shields.io/badge/Language-Python-yellow)
+![Language](https://img.shields.io/badge/Language-C++17-blue)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-7%2F7-brightgreen)
 ![Score](https://img.shields.io/badge/Score-700%2F700-success)
 ![Repository Status](https://img.shields.io/badge/Status-Completed-blueviolet)
