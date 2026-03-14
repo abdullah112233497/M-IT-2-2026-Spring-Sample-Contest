@@ -84,13 +84,20 @@ These concepts are fundamental for solving **algorithmic programming contest pro
 
 ---
 
-# 💻 Programming Language
+# 💻 Programming Languages Used
 
-All implementations in this repository are written in:
+Solutions in this repository are implemented using the following languages:
 
-🐍 **Python**
+🐍 **Python** – Used for most of the problems due to its readability and rapid development capabilities.
 
-Python allows fast development of algorithmic solutions and provides powerful built-in libraries useful for competitive programming.
+⚡ **C++17** – Used for two problems where performance and faster execution were beneficial.
+
+| Language | Usage                 |
+| -------- | --------------------- |
+| Python   | Majority of solutions |
+| C++17    | 2 problems            |
+
+Python provides quick implementation for algorithmic ideas, while **C++17** offers higher performance and fine-grained control when solving more demanding problems.
 
 ---
 
